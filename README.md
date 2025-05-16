@@ -38,9 +38,8 @@ This application is deployed on Streamlit Community Cloud, making it accessible 
 
 ## 🎬 Demo
 
-> **Note**: Add your application screenshots to the repository and update the path below.
 >
-> Example: `![App Demo](screenshots/app_demo.png)`
+> Example: ![App Demo](screenshots/app_demo.png)
 
 You can try the live app on [Streamlit Cloud](https://candidatehiringpredictor.streamlit.app).
 
