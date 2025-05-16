@@ -40,6 +40,7 @@ This application is deployed on Streamlit Community Cloud, making it accessible 
 
 >
 > Example: ![App Demo](screenshots/app_demo.png)
+> ![Rejection Suggestion](screenshots/rejection_suggestion.png)
 
 You can try the live app on [Streamlit Cloud](https://candidatehiringpredictor.streamlit.app).
 
