@@ -163,7 +163,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Core Team:**
 - [Swapnil Roy](https://github.com/S-T-R-A-N-G-E-R)
-- Rupsha Das
+- [Rupsha Das](https://github.com/Rupsha2003)
 - Nilanjan Dey
 
 **Special Thanks:**
